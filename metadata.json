@@ -1,0 +1,6 @@
+{
+  "name": "Retail Customer Segmentation & Data Warehouse Studio",
+  "description": "Production-grade technical package and interactive Power BI simulation for RFM K-Means customer segmentation and star schema data warehousing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
